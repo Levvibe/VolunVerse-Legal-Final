@@ -1,0 +1,108 @@
+VOLUNVERSE TERMS OF USE
+Version 2026-04-08
+
+1. ACCEPTANCE OF THESE TERMS
+These Terms of Use ("Terms") govern access to and use of the VolunVerse website, mobile application, and related services (collectively, the "Service") operated by VolunVerse ("VolunVerse," "we," "us," or "our"). By creating an account, accessing, browsing, or using the Service, you agree to be bound by these Terms and our Privacy Policy. If you do not agree, do not use the Service.
+
+2. ELIGIBILITY
+You may use the Service only if you can form a binding contract under applicable law and are not prohibited from using the Service under applicable law. If you are under the age of majority in your jurisdiction, you represent that your parent or legal guardian has reviewed and accepted these Terms on your behalf where required by law. If you use the Service on behalf of a school, nonprofit, business, or other organization, you represent that you are authorized to bind that entity to these Terms.
+
+3. DESCRIPTION OF THE SERVICE
+VolunVerse is a platform designed to help users discover, organize, track, and participate in volunteer opportunities, social impact activities, and related communications. Features may include user accounts, profiles, school and organization participation, volunteer opportunity listings, messaging, event sign-ups, activity tracking, uploaded content, location-based map displays, and account management tools. Some features may be limited by geography, age, account status, approval status, school or organization affiliation, device compatibility, or applicable law.
+
+4. ACCOUNT REGISTRATION AND SECURITY
+To access some features, you may need to create an account and provide accurate, current, and complete information. You are responsible for maintaining the confidentiality of your credentials and for all activities that occur under your account. You agree to notify us promptly of any unauthorized access to or use of your account. We may suspend or terminate accounts that are inaccurate, fraudulent, insecure, or in violation of these Terms.
+
+5. ACCURACY OF PROFILE, SCHOOL, AND ORGANIZATION INFORMATION
+You agree not to misrepresent your identity, school affiliation, age, organization, nonprofit status, volunteer hours, eligibility, or authority to act on behalf of any person or entity. Schools, nonprofits, and other organizations are responsible for ensuring the accuracy of the opportunities, messages, approvals, and representations they publish or transmit through the Service.
+
+6. ACCEPTABLE USE
+You agree not to use the Service to:
+(a) violate any law, regulation, or third-party right;
+(b) impersonate any person or entity or misrepresent affiliation;
+(c) harass, threaten, stalk, bully, defame, exploit, or endanger any person;
+(d) post false, misleading, fraudulent, discriminatory, obscene, or illegal content;
+(e) submit inaccurate volunteer records or falsified hours;
+(f) upload malware, viruses, scripts, or harmful code;
+(g) scrape, spider, reverse engineer, interfere with, or overload the Service;
+(h) attempt unauthorized access to accounts, data, systems, or networks;
+(i) circumvent rate limits, moderation systems, security controls, or account restrictions;
+(j) use the Service for spam, phishing, commercial solicitation unrelated to legitimate Service use, or deceptive conduct.
+
+7. USER CONTENT
+You may be able to upload, submit, publish, transmit, or otherwise make available text, images, profile information, comments, messages, event details, volunteer records, or other content ("User Content"). You retain ownership of your User Content, subject to the rights you grant below.
+
+By submitting User Content, you grant VolunVerse a worldwide, non-exclusive, royalty-free, sublicensable, transferable license to host, store, reproduce, modify for formatting and display, distribute, publicly display, and otherwise use that User Content solely as necessary to operate, improve, secure, promote, and provide the Service.
+
+You represent and warrant that:
+(a) you own or control the rights necessary to submit the User Content;
+(b) the User Content does not infringe or violate any third-party rights;
+(c) the User Content is accurate to the best of your knowledge;
+(d) the User Content complies with these Terms and applicable law.
+
+8. CONTENT MODERATION AND ENFORCEMENT
+We may, but are not obligated to, monitor, review, remove, restrict, report, or preserve content or accounts if we believe they may violate these Terms, applicable law, user safety expectations, or operational requirements. We may investigate reported content, limit visibility of content, disable posting privileges, block users, suspend or remove accounts, or cooperate with schools, organizations, law enforcement, or other authorities where appropriate or legally required.
+
+9. USER INTERACTIONS; NO GUARANTEE OF OPPORTUNITIES OR RESULTS
+VolunVerse provides a platform and does not guarantee the legitimacy, safety, quality, availability, accuracy, approval, scheduling, accessibility, or outcome of any opportunity, event, message, hours submission, organization, school process, or interaction on the Service. Users interact with other users, schools, and organizations at their own risk. You are solely responsible for your decisions, communications, travel, participation, safety precautions, supervision of minors, and any reliance on content or opportunities made available through the Service.
+
+10. VOLUNTEER HOURS, RECORDS, AND VERIFICATION
+Volunteer hours, sign-ins, activity submissions, proof uploads, or approvals displayed through the Service may depend on user submissions, organization review, school review, automated processing, or manual moderation. VolunVerse does not independently verify every hour entry, event record, or approval unless explicitly stated. Schools and organizations remain responsible for their own acceptance, rejection, certification, or audit decisions.
+
+11. LOCATION FEATURES AND MAPS
+The Service may use location-based features, including maps, approximate or precise location, and location-derived content. By enabling location access, you allow the Service to use your device location consistent with your device settings and our Privacy Policy. Map and geographic content may be provided by third-party services and may be incomplete, delayed, inaccurate, or unavailable.
+
+12. THIRD-PARTY SERVICES AND LINKS
+The Service may integrate with or link to third-party services, including authentication providers, map providers, file storage providers, analytics tools, or external websites. We do not control and are not responsible for third-party services, their content, their policies, or their availability. Your use of third-party services may be governed by separate terms and privacy policies.
+
+13. PRIVACY
+Your use of the Service is also governed by the VolunVerse Privacy Policy, which describes how we collect, use, disclose, retain, and delete data. If these Terms conflict with the Privacy Policy regarding data practices, the Privacy Policy controls with respect to those data practices.
+
+14. INTELLECTUAL PROPERTY
+The Service, including its software, design, branding, graphics, layout, text, compilations, and other elements, is owned by VolunVerse or its licensors and is protected by intellectual property and other laws. Except as expressly permitted by us in writing or by applicable law, you may not copy, reproduce, distribute, modify, create derivative works from, publicly display, republish, or exploit any portion of the Service.
+
+15. FEEDBACK
+If you submit feedback, suggestions, or ideas, you grant us a perpetual, irrevocable, worldwide, royalty-free right to use, modify, and incorporate that feedback without restriction or compensation to you.
+
+16. ACCOUNT SUSPENSION AND TERMINATION
+We may suspend, restrict, or terminate your access to the Service, with or without notice, if we believe you violated these Terms, created risk or possible legal exposure, infringed another person’s rights, compromised platform integrity, or if continuing to provide the Service to you is no longer commercially or operationally feasible. You may stop using the Service at any time. If your account is deleted, some data may remain for legal, safety, fraud-prevention, audit, backup, or dispute-resolution purposes as permitted or required by law and our Privacy Policy.
+
+17. DISCLAIMERS
+THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, QUIET ENJOYMENT, OR THAT THE SERVICE WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, OR FREE OF HARMFUL COMPONENTS. TO THE MAXIMUM EXTENT PERMITTED BY LAW, VOLUNVERSE DISCLAIMS ALL WARRANTIES REGARDING THE AVAILABILITY, SAFETY, ACCURACY, LEGALITY, QUALITY, OR OUTCOME OF ANY USER CONTENT, OPPORTUNITY, EVENT, MESSAGE, ORGANIZATION, SCHOOL INTERACTION, OR VOLUNTEER RECORD.
+
+18. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, VOLUNVERSE AND ITS FOUNDERS, AFFILIATES, LICENSORS, SERVICE PROVIDERS, OFFICERS, EMPLOYEES, CONTRACTORS, AND AGENTS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, GOODWILL, OPPORTUNITIES, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO THE SERVICE, THESE TERMS, USER CONTENT, THIRD-PARTY SERVICES, USER INTERACTIONS, OR EVENTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE TOTAL LIABILITY OF VOLUNVERSE FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE SERVICE OR THESE TERMS WILL NOT EXCEED THE GREATER OF (A) ONE HUNDRED U.S. DOLLARS (US $100) OR (B) THE AMOUNT YOU PAID TO VOLUNVERSE, IF ANY, IN THE TWELVE MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM.
+
+SOME JURISDICTIONS DO NOT ALLOW CERTAIN DISCLAIMERS OR LIMITATIONS, SO SOME OF THE ABOVE MAY NOT APPLY TO YOU.
+
+19. INDEMNIFICATION
+To the extent permitted by law, you agree to defend, indemnify, and hold harmless VolunVerse and its affiliates, licensors, service providers, officers, employees, contractors, and agents from and against any claims, liabilities, damages, judgments, losses, costs, expenses, and reasonable attorneys’ fees arising out of or related to your use of the Service, your User Content, your violation of these Terms, your violation of any law, or your violation of any third-party rights.
+
+20. CHANGES TO THE SERVICE
+We may modify, suspend, or discontinue all or any part of the Service at any time, with or without notice. We are not liable for any modification, suspension, or discontinuation of the Service.
+
+21. CHANGES TO THESE TERMS
+We may update these Terms from time to time. If we make material changes, we may provide notice through the Service, by email, or by other reasonable means. The updated Terms become effective on the posted effective date unless otherwise stated. Your continued use of the Service after the effective date means you accept the updated Terms.
+
+22. GOVERNING LAW
+These Terms are governed by the laws of the State of California, without regard to conflict-of-law principles, except to the extent superseded by applicable federal law or non-waivable consumer protection law.
+
+23. DISPUTE RESOLUTION
+Before filing a formal legal claim, you agree to contact VolunVerse at the contact email below and attempt to resolve the dispute informally. If the dispute is not resolved informally within a reasonable period, either party may pursue claims in a court of competent jurisdiction, unless an applicable written arbitration agreement is separately adopted. If you intend to use mandatory arbitration or a class-action waiver, you should have a qualified attorney review and adapt this section before publishing.
+
+24. SEVERABILITY
+If any provision of these Terms is held unenforceable, the remaining provisions will remain in full force and effect to the maximum extent permitted by law.
+
+25. NO WAIVER
+Failure by VolunVerse to enforce any provision of these Terms is not a waiver of its right to do so later.
+
+26. ENTIRE AGREEMENT
+These Terms and the Privacy Policy constitute the entire agreement between you and VolunVerse regarding the Service, except for any separate written agreements that expressly govern particular features, schools, organizations, or services.
+
+27. CONTACT INFORMATION
+VolunVerse Support
+Email: volunversesupport@gmail.com
+
+If you have questions about these Terms, contact us at the email above.
